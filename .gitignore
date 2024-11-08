@@ -1,0 +1,24 @@
+# Visual studio
+.vs/
+
+# Visual studio code
+.vscode/
+
+# Binaries
+out/
+*.spv
+
+# Cmake specific files
+
+_deps
+Testing
+Makefile
+CMakeFiles
+CMakeScripts
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+CMakeLists.txt.user
+install_manifest.txt
+compile_commands.json
+CMakeUserPresets.json
